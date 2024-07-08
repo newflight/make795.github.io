@@ -5,7 +5,7 @@
     "GMEEK_VERSION":"last",
     "homeUrl":"http://https://blog.tech-catfish.cloudns.ch/",
     "onePageListNum":15,
-    "singlePage":["about"],
+    "singlePage":["about","link"],
     "iconList":{"music":"M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13Z"},
     "exlink":{"music":"https://blog.tech-catfish.cloudns.ch/Tech-song/"},
     "commentLabelColor":"#006b75",
